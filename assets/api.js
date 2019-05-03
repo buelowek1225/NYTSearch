@@ -12,8 +12,9 @@ $.ajax({
     .then(function(response) {
         console.log(response);
 
-        let searchTerm = ;
+        let searchTerm = response.;
         let startYear = ;
         let endYear = ;
+        let numRecords = ;
 
     }
